@@ -14,7 +14,7 @@ const App = () => {
         </p>
         <div className="input-container">
           <input 
-            placeholder="A dwarf paladin warrior heavily plated in armor, realistic high definition image..."
+            placeholder="Let's bring your thoughts to images"
           />            
           <button>Generate</button> 
         </div>
